@@ -1,5 +1,5 @@
 ''' Project 1 Part B - Written by Kenny Cai
-Exploring different ensembling models.
+Exploring different ensembling models for a customer churn dataset.
 '''
 import numpy as np
 import pandas as pd

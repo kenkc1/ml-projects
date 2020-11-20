@@ -1,4 +1,7 @@
-'''Project 1 Part A - Interpretable model - Decision Tree Written by Kenny Cai '''
+'''Project 1 Part A - Interpretable model - Decision Tree 
+Customer churn dataset
+Written by Kenny Cai
+ '''
 
 import numpy as np
 import pandas as pd
