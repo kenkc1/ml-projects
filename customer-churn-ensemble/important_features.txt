@@ -1,0 +1,9 @@
+X[3] = senior citizens
+x[34] = Contract
+X[16] = online security
+X[44] = Monthly charges
+x[45] = total charges
+x[21] = Online backup
+x[40] = Payment method
+x[43] = tenure
+x[27] = tech support (Very impure leaf node)
