@@ -16,10 +16,9 @@ from sklearn.preprocessing import MinMaxScaler
 import tensorflow as tf
 from tensorflow import keras
 
-# COMMENTED OUT BECAUSE OF ED RUNNING ISSUE
-#import matplotlib.pyplot as plt
-#import seaborn as sns
-#import scipy.stats as st
+import matplotlib.pyplot as plt
+import seaborn as sns
+import scipy.stats as st
 
 
 def reset_seed():
