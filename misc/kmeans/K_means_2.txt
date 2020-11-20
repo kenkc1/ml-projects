@@ -1,0 +1,11 @@
+Continuing with the Olivetti faces data set, train a classifier to predict which person is represented in each picture, and evaluate it on the validation set. 
+
+Next, use K-Means as a dimensionality reduction tool, and train a classifier on the reduced set. 
+
+Search for the number of clusters that allows the classifier to get the best performance.
+
+What performance can you reach? 
+
+What if you append the features from the reduced set to the original features (again, searching for the best number of clusters)?
+
+Provide your answers in the file kmeans_2.py. The code from the previous exercise is available in the files kmeans_1.py and plot_faces_lib.py. 

@@ -1,0 +1,11 @@
+The classic Olivetti faces data set contains 400 greyscale 64 × 64–pixel images of faces. Each image is flattened to a 1D vector of size 4,096. 40 different people were photographed (10 times each), and the usual task is to train a model that can predict which person is represented in each picture. 
+
+Load the data set using the sklearn.datasets.fetch_olivetti_faces() function, then split it into a training set, a validation set, and a test set (note that the data set is already scaled between 0 and 1). 
+
+Since the data set is quite small, you probably want to use stratified sampling to ensure that there are the same number of images per person in each set. 
+
+Next, cluster the images using K-Means, and ensure that you have a good number of clusters (using one of the techniques discussed in this chapter). 
+
+Visualise the clusters: do you see similar faces in each cluster?
+
+Provide your answers in the file kmeans_1.py. The code to display faces is available in the file plot_faces_lib.py. 

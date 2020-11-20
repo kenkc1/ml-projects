@@ -1,0 +1,13 @@
+Load the MNIST data set (introduced in Chapter 3) and split it into a training set and a test set (take the first 60,000 instances for training, and the remaining 10,000 for testing). 
+
+Train a Random Forest classifier on the data set and time how long it takes, then evaluate the resulting model on the test set. 
+
+Next, use PCA to reduce the data set’s dimensionality, with an explained variance ratio of 95%. 
+
+Train a new Random Forest classifier on the reduced data set and see how long it takes. 
+
+Was training much faster? 
+
+Next, evaluate the classifier on the test set. 
+
+How does it compare to the previous classifier?

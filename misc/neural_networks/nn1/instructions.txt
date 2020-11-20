@@ -1,0 +1,5 @@
+Data processing for machine learning: Given the attached dataset, use either R or Python with the needed libraries to process the data. 
+
+normalise the input features between 0 and 1 and use a one-hot-encoding for the target classes. 
+
+save normalised data as data.csv
