@@ -6,6 +6,6 @@ The following repository contains Kenny's personal machine learning projects and
 and Part B explores a black box model using emsembling (Random forests and AdaBoost). Findings are presented in a report which can be found in the folder.
 
 **Project 2** explores a multi-layered-perceptron model for prediction Parkinson's diseases from speech data. It contains an in-depth consideration of hyperameters 
-including optimzers, number of neurons, number of layers etc. Findings are presented in a report which can be found in the folder.
+including optimzers, number of neurons, number of hidden layers etc. Findings are presented in a report which can be found in the folder.
 
 **Misc** contains misecellaenous code for dabblings with ML concepts and ideas.
